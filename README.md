@@ -39,9 +39,11 @@ This repository contains the Arduino source code developed for an independent la
 
 **Hiba Faisal**
 
+Independent Geotechnical Engineering Project
+
 ## Project Report
 
 The complete engineering report is available through my LinkedIn portfolio.
 
 
-Independent Geotechnical Engineering Project
+
